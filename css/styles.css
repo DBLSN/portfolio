@@ -3,8 +3,7 @@ h1 {
     font-size: 30px;
     padding-left: 80px;
     padding-top: 110px;
-    padding-bottom: none;
-    
+    margin: 0;    
 }
 
 h2 {
@@ -14,6 +13,7 @@ h2 {
     font-weight: 200;
     color: black;
     padding-left: 80px;
+    margin: 0;
 
 }
 
