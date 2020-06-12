@@ -1,8 +1,8 @@
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
-    padding-left: 80px;
-    padding-top: 110px;
+    padding-left: 2.6em;
+    padding-top: 2em;
     margin: 0;    
 }
 
@@ -12,7 +12,18 @@ h2 {
     font-size: 16px;
     font-weight: 200;
     color: black;
-    padding-left: 80px;
+    padding-left: 5.1em;
+    padding-bottom: 8px;
+    margin: 0;
+}
+
+#About {
+    padding-left: 5.1em;
+    margin: 0;
+}
+
+#Contact {
+    padding-left: 5.1em;
     margin: 0;
 }
 
@@ -23,6 +34,17 @@ p {
     color: black;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+
+}
+/* underline settings
+u {    
+    text-decoration: none;
+    border-bottom: 1.2px solid;
+    display: inline-block;
+} */
 
 #images {
     padding-top: 0px;
